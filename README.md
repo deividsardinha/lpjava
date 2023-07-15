@@ -7,8 +7,7 @@ Disciplina de linguagem de programação estudando JAVA.
 
 ## Instruções de utilização
 
-Os alunos podem utilizar comando 
- Clone the repo
+Os alunos podem utilizar comando git clone para criar uma copia dos exercicios :
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/deividsardinha/lpjava.git
    ```
