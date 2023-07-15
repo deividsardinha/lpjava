@@ -19,7 +19,6 @@ git clone https://github.com/deividsardinha/lpjava.git
 3. Agora, você está na pasta correta. Vamos clonar o repositório.
    
 4. No terminal ou prompt de comando, digite o seguinte comando: git clone https://github.com/deividsardinha/lpjava.git. Isso irá iniciar o processo de clonagem do repositório para a pasta "NetBeansProjects".
-![repoclone](https://github.com/deividsardinha/lpjava/assets/8556322/c3575863-08be-49f3-88d1-238869fb2e6b)
 <div align="center">
    <img src="https://github.com/deividsardinha/lpjava/assets/8556322/c3575863-08be-49f3-88d1-238869fb2e6b">
 </div>
