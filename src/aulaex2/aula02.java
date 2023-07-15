@@ -6,6 +6,7 @@ package aulaex2;
  * Disciplina: Linguagem de Programação
  * Materia: Manipulação de String
  * Documentação: https://www.w3schools.com/java/java_strings.asp
+ * 
  * @author Deivid Sardinha
  * A concatenação de strings é o processo de combinar duas 
  * ou mais strings. Em Java, você pode usar o operador de 
