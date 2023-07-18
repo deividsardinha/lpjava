@@ -5,8 +5,13 @@
 package aulaex3;
 
 /**
- *
- * @author SANDMAN
+ * Exercício 03
+ * Aula:01/08/2023
+ * Disciplina: Linguagem de Programação
+ * Materia: Git e GitHub
+ * Documentação 1:https://git-scm.com/downloads
+ * Documentação 2: https://github.com/
+ * @author Deivid Sardinha
  */
 public class aula03 {
     public static void main(String[] args) {
