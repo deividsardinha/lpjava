@@ -11,10 +11,15 @@ package aulaex3;
  * Materia: Git e GitHub
  * Documentação 1:https://git-scm.com/downloads
  * Documentação 2: https://github.com/
+ * Tipo de Dados 3: https://www.w3schools.com/java/java_data_types.asp
  * @author Deivid Sardinha
  */
 public class aula03 {
     public static void main(String[] args) {
-        System.out.println("Aula usando o github");
+        int meuNum = 5;               // Inteiros
+        float meuNumReal = 5.99f;    // Reais
+        char meuCaracter = 'D';         // Caracter
+        boolean meuLogico = true;       // Lógico
+        String meuTexto = "Hello";     // Texto
     }
 }

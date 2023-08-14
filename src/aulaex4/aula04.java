@@ -9,7 +9,7 @@ package aulaex4;
  * Aula:
  * Disciplina: Linguagem de Programação
  * Materia: Operadores Atribuição e Aritméticos
- * Documentação 1:https://www.devmedia.com.br/java-operadores-de-atribuicao-aritmeticos-relacionais-e-logicos/38289
+ * Documentação 1: https://www.w3schools.com/java/java_operators.asp
  * @author Deivid Sardinha
  * 
  */

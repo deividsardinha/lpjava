@@ -19,6 +19,7 @@ public class aula05 {
         System.out.println("Imprimindo o valor de Pi e da constante de euler, o 'e' dos números exponenciais: \n");
         System.out.println("O valor de pi é: " + Math.PI);
         System.out.println("O valor de E é: " + Math.E + "\n\n");
+        System.out.println("=*30");
         
         System.out.println("Exponencial e potenciação na classe Math:\n");
         System.out.println("'e' elevado ao quadrado = "+ Math.exp(2));
